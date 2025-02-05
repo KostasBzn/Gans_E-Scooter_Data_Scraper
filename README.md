@@ -18,8 +18,7 @@ This project collects real-time weather and flight data to support GANS, a compa
 - python-dotenv (for environment variable management)
 
 ## Installation
-1. Clone the repository:
-   git clone git@github.com:KostasBzn/Gans_Scooters_Data_Scraper.git
+1. Clone the repository
 
 2. Install the required dependencies:
    pip install -r requirements.txt
